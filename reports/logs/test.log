@@ -1,0 +1,102 @@
+[{$timestamp}] INFO -Launching browser
+[{$timestamp}] INFO -closing browser
+[{$timestamp}] INFO -Launching browser
+[{$timestamp}] INFO -Starting scenario:Valid login
+[{$timestamp}] INFO -Launched the application successfully
+[{$timestamp}] INFO -Opted login
+[{$timestamp}] INFO -Entered valid datas
+[{$timestamp}] INFO -Clicked on login button
+[{$timestamp}] INFO -Logged in successfully
+[{$timestamp}] INFO -Scenario PASSED:Valid login
+[{$timestamp}] INFO -Starting scenario:Invalid login
+[{$timestamp}] INFO -closing browser
+[{$timestamp}] INFO -Launching browser
+[{$timestamp}] INFO -Starting scenario:Valid login
+[{$timestamp}] INFO -Launched the application successfully
+[{$timestamp}] INFO -Opted login
+[{$timestamp}] INFO -Entered valid datas
+[{$timestamp}] INFO -Clicked on login button
+[{$timestamp}] INFO -Logged in successfully
+[{$timestamp}] INFO -Scenario PASSED:Valid login
+[{$timestamp}] INFO -Starting scenario:Invalid login
+[{$timestamp}] INFO -closing browser
+[{$timestamp}] INFO -Launching browser
+[{$timestamp}] INFO -Starting scenario:Valid login
+[{$timestamp}] INFO -Launched the application successfully
+[{$timestamp}] INFO -Opted login
+[{$timestamp}] INFO -Entered valid datas
+[{$timestamp}] INFO -Clicked on login button
+[{$timestamp}] INFO -Logged in successfully
+[{$timestamp}] INFO -Scenario PASSED:Valid login
+[{$timestamp}] INFO -Starting scenario:Invalid login
+[{$timestamp}] INFO -Launched the application successfully
+[{$timestamp}] INFO -Opted login
+[{$timestamp}] INFO -Entered invalid datas
+[{$timestamp}] INFO -Clicked on login button
+[{$timestamp}] ERROR -Screenshot FAILED:Invalid login
+[{$timestamp}] ERROR -Screenshot saved:reports/screenshots/1783299521074.png
+[{$timestamp}] INFO -closing browser
+[{$timestamp}] INFO -Launching browser
+[{$timestamp}] INFO -Starting scenario:Valid login
+[{$timestamp}] INFO -Launched the application successfully
+[{$timestamp}] INFO -Opted login
+[{$timestamp}] INFO -Entered valid datas
+[{$timestamp}] INFO -Clicked on login button
+[{$timestamp}] INFO -Logged in successfully
+[{$timestamp}] INFO -Scenario PASSED:Valid login
+[{$timestamp}] INFO -Starting scenario:Invalid login
+[{$timestamp}] INFO -Launched the application successfully
+[{$timestamp}] INFO -Opted login
+[{$timestamp}] INFO -Entered invalid datas
+[{$timestamp}] INFO -Clicked on login button
+[{$timestamp}] ERROR -Screenshot FAILED:Invalid login
+[{$timestamp}] ERROR -Screenshot saved:reports/screenshots/1783299799841.png
+[{$timestamp}] INFO -closing browser
+[{$timestamp}] INFO -Launching browser
+[{$timestamp}] INFO -Starting scenario:Valid login
+[{$timestamp}] INFO -Launched the application successfully
+[{$timestamp}] INFO -Opted login
+[{$timestamp}] INFO -Entered valid datas
+[{$timestamp}] INFO -Clicked on login button
+[{$timestamp}] INFO -Logged in successfully
+[{$timestamp}] INFO -Scenario PASSED:Valid login
+[{$timestamp}] INFO -Starting scenario:Invalid login
+[{$timestamp}] INFO -Launched the application successfully
+[{$timestamp}] INFO -Opted login
+[{$timestamp}] INFO -Entered invalid datas
+[{$timestamp}] INFO -Clicked on login button
+[{$timestamp}] ERROR -Screenshot FAILED:Invalid login
+[{$timestamp}] ERROR -Screenshot saved:reports/screenshots/1783301194351.png
+[{$timestamp}] INFO -closing browser
+[{$timestamp}] INFO -Launching browser
+[{$timestamp}] INFO -Starting scenario:Valid login
+[{$timestamp}] INFO -Launched the application successfully
+[{$timestamp}] INFO -Opted login
+[{$timestamp}] INFO -Entered valid datas
+[{$timestamp}] INFO -Clicked on login button
+[{$timestamp}] INFO -Logged in successfully
+[{$timestamp}] INFO -Scenario PASSED:Valid login
+[{$timestamp}] INFO -Starting scenario:Invalid login
+[{$timestamp}] INFO -Launched the application successfully
+[{$timestamp}] INFO -Opted login
+[{$timestamp}] INFO -Entered invalid datas
+[{$timestamp}] INFO -Clicked on login button
+[{$timestamp}] ERROR -Screenshot FAILED:Invalid login
+[{$timestamp}] ERROR -Screenshot saved:reports/screenshots/1783301517429.png
+[{$timestamp}] INFO -closing browser
+[{$timestamp}] INFO -Launching browser
+[{$timestamp}] INFO -Starting scenario:Valid login
+[{$timestamp}] INFO -Launched the application successfully
+[{$timestamp}] INFO -Opted login
+[{$timestamp}] INFO -Entered valid datas
+[{$timestamp}] INFO -Clicked on login button
+[{$timestamp}] INFO -Logged in successfully
+[{$timestamp}] INFO -Scenario PASSED:Valid login
+[{$timestamp}] INFO -Starting scenario:Invalid login
+[{$timestamp}] INFO -Launched the application successfully
+[{$timestamp}] INFO -Opted login
+[{$timestamp}] INFO -Entered invalid datas
+[{$timestamp}] INFO -Clicked on login button
+[{$timestamp}] INFO -Verified invalid login
+[{$timestamp}] INFO -Scenario PASSED:Invalid login
+[{$timestamp}] INFO -closing browser

@@ -1,0 +1,197 @@
+[
+  {
+    "description": "",
+    "elements": [
+      {
+        "description": "",
+        "id": "login-functionality-of-tutorialsninja;valid-login",
+        "keyword": "Scenario",
+        "line": 7,
+        "name": "Valid login",
+        "steps": [
+          {
+            "keyword": "Before",
+            "hidden": true,
+            "result": {
+              "status": "passed",
+              "duration": 256530899
+            }
+          },
+          {
+            "arguments": [],
+            "keyword": "Given ",
+            "line": 4,
+            "name": "the tutorialsninja application is launched",
+            "match": {
+              "location": "src\\stepdefinitions\\Loginstep.ts:9"
+            },
+            "result": {
+              "status": "passed",
+              "duration": 888853799
+            }
+          },
+          {
+            "arguments": [],
+            "keyword": "And ",
+            "line": 5,
+            "name": "the user selects myaccount link and opts Login",
+            "match": {
+              "location": "src\\stepdefinitions\\Loginstep.ts:14"
+            },
+            "result": {
+              "status": "passed",
+              "duration": 469402000
+            }
+          },
+          {
+            "arguments": [],
+            "keyword": "And ",
+            "line": 8,
+            "name": "the user enters valid login email and password",
+            "match": {
+              "location": "src\\stepdefinitions\\Loginstep.ts:19"
+            },
+            "result": {
+              "status": "passed",
+              "duration": 118738999
+            }
+          },
+          {
+            "arguments": [],
+            "keyword": "When ",
+            "line": 9,
+            "name": "the login is clicked",
+            "match": {
+              "location": "src\\stepdefinitions\\Loginstep.ts:27"
+            },
+            "result": {
+              "status": "passed",
+              "duration": 2452794100
+            }
+          },
+          {
+            "arguments": [],
+            "keyword": "Then ",
+            "line": 10,
+            "name": "the user is able to view dashboard page",
+            "match": {
+              "location": "src\\stepdefinitions\\Loginstep.ts:32"
+            },
+            "result": {
+              "status": "passed",
+              "duration": 38392400
+            }
+          },
+          {
+            "keyword": "After",
+            "hidden": true,
+            "result": {
+              "status": "passed",
+              "duration": 95081099
+            }
+          }
+        ],
+        "tags": [],
+        "type": "scenario"
+      },
+      {
+        "description": "",
+        "id": "login-functionality-of-tutorialsninja;invalid-login",
+        "keyword": "Scenario",
+        "line": 13,
+        "name": "Invalid login",
+        "steps": [
+          {
+            "keyword": "Before",
+            "hidden": true,
+            "result": {
+              "status": "passed",
+              "duration": 304055900
+            }
+          },
+          {
+            "arguments": [],
+            "keyword": "Given ",
+            "line": 4,
+            "name": "the tutorialsninja application is launched",
+            "match": {
+              "location": "src\\stepdefinitions\\Loginstep.ts:9"
+            },
+            "result": {
+              "status": "passed",
+              "duration": 923718299
+            }
+          },
+          {
+            "arguments": [],
+            "keyword": "And ",
+            "line": 5,
+            "name": "the user selects myaccount link and opts Login",
+            "match": {
+              "location": "src\\stepdefinitions\\Loginstep.ts:14"
+            },
+            "result": {
+              "status": "passed",
+              "duration": 324567200
+            }
+          },
+          {
+            "arguments": [],
+            "keyword": "And ",
+            "line": 14,
+            "name": "the user enters invalid login email and password",
+            "match": {
+              "location": "src\\stepdefinitions\\Loginstep.ts:38"
+            },
+            "result": {
+              "status": "passed",
+              "duration": 88155300
+            }
+          },
+          {
+            "arguments": [],
+            "keyword": "When ",
+            "line": 15,
+            "name": "the login is clicked",
+            "match": {
+              "location": "src\\stepdefinitions\\Loginstep.ts:27"
+            },
+            "result": {
+              "status": "passed",
+              "duration": 777162999
+            }
+          },
+          {
+            "arguments": [],
+            "keyword": "Then ",
+            "line": 16,
+            "name": "the user receives an error message",
+            "match": {
+              "location": "src\\stepdefinitions\\Loginstep.ts:47"
+            },
+            "result": {
+              "status": "passed",
+              "duration": 69477200
+            }
+          },
+          {
+            "keyword": "After",
+            "hidden": true,
+            "result": {
+              "status": "passed",
+              "duration": 80462499
+            }
+          }
+        ],
+        "tags": [],
+        "type": "scenario"
+      }
+    ],
+    "id": "login-functionality-of-tutorialsninja",
+    "line": 1,
+    "keyword": "Feature",
+    "name": "Login functionality of Tutorialsninja",
+    "tags": [],
+    "uri": "src\\features\\Login.feature"
+  }
+]
