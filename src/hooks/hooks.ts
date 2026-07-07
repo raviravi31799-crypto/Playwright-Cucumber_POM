@@ -13,7 +13,7 @@ dotenv.config({ path: `./env/.env.${envName}` });
 let browser:Browser;
 BeforeAll(async()=>{
     logger.info("Launching browser");
-    browser=await chromium.launch({headless:false});
+    browser=await chromium.launch({headless:false},{timeout:50000});
 
 });
 Before(async function(this:CustomWorld,scenario){
