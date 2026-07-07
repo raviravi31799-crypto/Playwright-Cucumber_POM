@@ -3,10 +3,14 @@ import{Before,After,BeforeAll,AfterAll} from "@cucumber/cucumber";
 import {Browser, chromium} from "@playwright/test";
 import{CustomWorld} from "../world/world";
 import {LoginPage} from "../pages/Loginpage";
+import { Searchpage } from '../pages/Searchpage';
+import { Registerpage } from '../pages/Registerpage';
 
+import dotenv from 'dotenv';
+const envName=process.env.ENV ||'url';
+dotenv.config({ path: `./env/.env.${envName}` });
 
-
- let browser:Browser;
+let browser:Browser;
 BeforeAll(async()=>{
     logger.info("Launching browser");
     browser=await chromium.launch({headless:false});
@@ -18,6 +22,8 @@ Before(async function(this:CustomWorld,scenario){
     this.context=await browser.newContext();
     this.page=await this.context.newPage();
     this.loginPage=new LoginPage(this.page);
+    this.searchpage=new Searchpage(this.page);
+    this.registerpage=new Registerpage(this.page);
    
 
 });

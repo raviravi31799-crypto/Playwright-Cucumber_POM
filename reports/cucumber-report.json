@@ -14,7 +14,7 @@
             "hidden": true,
             "result": {
               "status": "passed",
-              "duration": 256530899
+              "duration": 258514300
             }
           },
           {
@@ -27,7 +27,7 @@
             },
             "result": {
               "status": "passed",
-              "duration": 888853799
+              "duration": 2208780600
             }
           },
           {
@@ -40,7 +40,7 @@
             },
             "result": {
               "status": "passed",
-              "duration": 469402000
+              "duration": 655424699
             }
           },
           {
@@ -53,7 +53,7 @@
             },
             "result": {
               "status": "passed",
-              "duration": 118738999
+              "duration": 93220599
             }
           },
           {
@@ -66,7 +66,7 @@
             },
             "result": {
               "status": "passed",
-              "duration": 2452794100
+              "duration": 856092700
             }
           },
           {
@@ -79,7 +79,7 @@
             },
             "result": {
               "status": "passed",
-              "duration": 38392400
+              "duration": 61121200
             }
           },
           {
@@ -87,7 +87,7 @@
             "hidden": true,
             "result": {
               "status": "passed",
-              "duration": 95081099
+              "duration": 91667399
             }
           }
         ],
@@ -106,7 +106,7 @@
             "hidden": true,
             "result": {
               "status": "passed",
-              "duration": 304055900
+              "duration": 410950799
             }
           },
           {
@@ -119,7 +119,7 @@
             },
             "result": {
               "status": "passed",
-              "duration": 923718299
+              "duration": 912098299
             }
           },
           {
@@ -132,7 +132,7 @@
             },
             "result": {
               "status": "passed",
-              "duration": 324567200
+              "duration": 373859099
             }
           },
           {
@@ -145,7 +145,7 @@
             },
             "result": {
               "status": "passed",
-              "duration": 88155300
+              "duration": 110739600
             }
           },
           {
@@ -158,7 +158,7 @@
             },
             "result": {
               "status": "passed",
-              "duration": 777162999
+              "duration": 755065800
             }
           },
           {
@@ -171,7 +171,7 @@
             },
             "result": {
               "status": "passed",
-              "duration": 69477200
+              "duration": 67181300
             }
           },
           {
@@ -179,7 +179,7 @@
             "hidden": true,
             "result": {
               "status": "passed",
-              "duration": 80462499
+              "duration": 87823199
             }
           }
         ],
@@ -193,5 +193,354 @@
     "name": "Login functionality of Tutorialsninja",
     "tags": [],
     "uri": "src\\features\\Login.feature"
+  },
+  {
+    "description": "",
+    "elements": [
+      {
+        "description": "",
+        "id": "register-functionality-of-tutorials-ninja;register-with-valid-datas",
+        "keyword": "Scenario",
+        "line": 7,
+        "name": "Register with valid datas",
+        "steps": [
+          {
+            "keyword": "Before",
+            "hidden": true,
+            "result": {
+              "status": "passed",
+              "duration": 409131600
+            }
+          },
+          {
+            "arguments": [],
+            "keyword": "Given ",
+            "line": 4,
+            "name": "the user launched the application",
+            "match": {
+              "location": "src\\stepdefinitions\\Registerstep.ts:8"
+            },
+            "result": {
+              "status": "passed",
+              "duration": 903494300
+            }
+          },
+          {
+            "arguments": [],
+            "keyword": "And ",
+            "line": 5,
+            "name": "selects Register option",
+            "match": {
+              "location": "src\\stepdefinitions\\Registerstep.ts:12"
+            },
+            "result": {
+              "status": "passed",
+              "duration": 368868200
+            }
+          },
+          {
+            "arguments": [
+              {
+                "rows": [
+                  {
+                    "cells": [
+                      "fname",
+                      "lname",
+                      "email",
+                      "phone",
+                      "password",
+                      "cpassword"
+                    ]
+                  },
+                  {
+                    "cells": [
+                      "Sanvis",
+                      "Jay",
+                      "sanvith@gmail.com",
+                      "1234567890",
+                      "sanvis",
+                      "sanvis"
+                    ]
+                  }
+                ]
+              }
+            ],
+            "keyword": "And ",
+            "line": 8,
+            "name": "the user enters all valid datas",
+            "match": {
+              "location": "src\\stepdefinitions\\Registerstep.ts:16"
+            },
+            "result": {
+              "status": "passed",
+              "duration": 278010900
+            }
+          },
+          {
+            "arguments": [],
+            "keyword": "When ",
+            "line": 11,
+            "name": "the user clicks on register button",
+            "match": {
+              "location": "src\\stepdefinitions\\Registerstep.ts:29"
+            },
+            "result": {
+              "status": "passed",
+              "duration": 911007400
+            }
+          },
+          {
+            "arguments": [],
+            "keyword": "Then ",
+            "line": 12,
+            "name": "user receives a text marking the successful account creation",
+            "match": {
+              "location": "src\\stepdefinitions\\Registerstep.ts:33"
+            },
+            "result": {
+              "status": "passed",
+              "duration": 66378600
+            }
+          },
+          {
+            "keyword": "After",
+            "hidden": true,
+            "result": {
+              "status": "passed",
+              "duration": 96087499
+            }
+          }
+        ],
+        "tags": [],
+        "type": "scenario"
+      }
+    ],
+    "id": "register-functionality-of-tutorials-ninja",
+    "line": 1,
+    "keyword": "Feature",
+    "name": "Register functionality of tutorials ninja",
+    "tags": [],
+    "uri": "src\\features\\Register.feature"
+  },
+  {
+    "description": "",
+    "elements": [
+      {
+        "description": "",
+        "id": "search-functionality;search-through-valid-keyword",
+        "keyword": "Scenario Outline",
+        "line": 15,
+        "name": "Search through valid keyword",
+        "steps": [
+          {
+            "keyword": "Before",
+            "hidden": true,
+            "result": {
+              "status": "passed",
+              "duration": 244359500
+            }
+          },
+          {
+            "arguments": [],
+            "keyword": "Given ",
+            "line": 4,
+            "name": "the user launched to the homepage of the application",
+            "match": {
+              "location": "src\\stepdefinitions\\Searchstep.ts:7"
+            },
+            "result": {
+              "status": "passed",
+              "duration": 2316283499
+            }
+          },
+          {
+            "arguments": [],
+            "keyword": "And ",
+            "line": 7,
+            "name": "the user enters the valid \"Iphone\"",
+            "match": {
+              "location": "src\\stepdefinitions\\Searchstep.ts:11"
+            },
+            "result": {
+              "status": "passed",
+              "duration": 83339900
+            }
+          },
+          {
+            "arguments": [],
+            "keyword": "When ",
+            "line": 8,
+            "name": "clicks on search button",
+            "match": {
+              "location": "src\\stepdefinitions\\Searchstep.ts:15"
+            },
+            "result": {
+              "status": "passed",
+              "duration": 253677700
+            }
+          },
+          {
+            "arguments": [],
+            "keyword": "And ",
+            "line": 9,
+            "name": "the products related to search are displayed",
+            "match": {
+              "location": "src\\stepdefinitions\\Searchstep.ts:19"
+            },
+            "result": {
+              "status": "passed",
+              "duration": 66690200
+            }
+          },
+          {
+            "arguments": [],
+            "keyword": "When ",
+            "line": 10,
+            "name": "the user clicks on Addtocart to a product",
+            "match": {
+              "location": "src\\stepdefinitions\\Searchstep.ts:23"
+            },
+            "result": {
+              "status": "passed",
+              "duration": 134618299
+            }
+          },
+          {
+            "arguments": [],
+            "keyword": "Then ",
+            "line": 11,
+            "name": "the success \"Success: You have added iPhone to your shopping cart!\" is displayed intimating product is added to cart",
+            "match": {
+              "location": "src\\stepdefinitions\\Searchstep.ts:27"
+            },
+            "result": {
+              "status": "passed",
+              "duration": 218687400
+            }
+          },
+          {
+            "keyword": "After",
+            "hidden": true,
+            "result": {
+              "status": "passed",
+              "duration": 75669000
+            }
+          }
+        ],
+        "tags": [],
+        "type": "scenario"
+      },
+      {
+        "description": "",
+        "id": "search-functionality;search-through-valid-keyword",
+        "keyword": "Scenario Outline",
+        "line": 16,
+        "name": "Search through valid keyword",
+        "steps": [
+          {
+            "keyword": "Before",
+            "hidden": true,
+            "result": {
+              "status": "passed",
+              "duration": 322287000
+            }
+          },
+          {
+            "arguments": [],
+            "keyword": "Given ",
+            "line": 4,
+            "name": "the user launched to the homepage of the application",
+            "match": {
+              "location": "src\\stepdefinitions\\Searchstep.ts:7"
+            },
+            "result": {
+              "status": "passed",
+              "duration": 835351800
+            }
+          },
+          {
+            "arguments": [],
+            "keyword": "And ",
+            "line": 7,
+            "name": "the user enters the valid \"Macbook\"",
+            "match": {
+              "location": "src\\stepdefinitions\\Searchstep.ts:11"
+            },
+            "result": {
+              "status": "passed",
+              "duration": 66746300
+            }
+          },
+          {
+            "arguments": [],
+            "keyword": "When ",
+            "line": 8,
+            "name": "clicks on search button",
+            "match": {
+              "location": "src\\stepdefinitions\\Searchstep.ts:15"
+            },
+            "result": {
+              "status": "passed",
+              "duration": 239489099
+            }
+          },
+          {
+            "arguments": [],
+            "keyword": "And ",
+            "line": 9,
+            "name": "the products related to search are displayed",
+            "match": {
+              "location": "src\\stepdefinitions\\Searchstep.ts:19"
+            },
+            "result": {
+              "status": "passed",
+              "duration": 115660799
+            }
+          },
+          {
+            "arguments": [],
+            "keyword": "When ",
+            "line": 10,
+            "name": "the user clicks on Addtocart to a product",
+            "match": {
+              "location": "src\\stepdefinitions\\Searchstep.ts:23"
+            },
+            "result": {
+              "status": "passed",
+              "duration": 56416699
+            }
+          },
+          {
+            "arguments": [],
+            "keyword": "Then ",
+            "line": 11,
+            "name": "the success \"Success: You have added MacBook to your shopping cart!\" is displayed intimating product is added to cart",
+            "match": {
+              "location": "src\\stepdefinitions\\Searchstep.ts:27"
+            },
+            "result": {
+              "status": "passed",
+              "duration": 212984699
+            }
+          },
+          {
+            "keyword": "After",
+            "hidden": true,
+            "result": {
+              "status": "passed",
+              "duration": 86997100
+            }
+          }
+        ],
+        "tags": [],
+        "type": "scenario"
+      }
+    ],
+    "id": "search-functionality",
+    "line": 1,
+    "keyword": "Feature",
+    "name": "Search functionality",
+    "tags": [],
+    "uri": "src\\features\\Search.feature"
   }
 ]

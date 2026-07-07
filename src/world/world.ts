@@ -1,5 +1,7 @@
 import{Browser,BrowserContext,Page} from "@playwright/test";
 import{LoginPage} from "../pages/Loginpage";
+import { Searchpage } from "../pages/Searchpage";
+import {Registerpage} from "../pages/Registerpage";
 
 
 export class CustomWorld{
@@ -9,7 +11,8 @@ export class CustomWorld{
 
 
     loginPage!:LoginPage;
-   // registerPage!:Registerpage;
+    searchpage!:Searchpage;
+    registerpage!:Registerpage;
 
    
 }

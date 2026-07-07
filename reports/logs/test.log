@@ -100,3 +100,667 @@
 [{$timestamp}] INFO -Verified invalid login
 [{$timestamp}] INFO -Scenario PASSED:Invalid login
 [{$timestamp}] INFO -closing browser
+[{$timestamp}] INFO -Launching browser
+[{$timestamp}] INFO -Starting scenario:Valid login
+[{$timestamp}] INFO -Launched the application successfully
+[{$timestamp}] INFO -Opted login
+[{$timestamp}] INFO -Entered valid datas
+[{$timestamp}] INFO -Clicked on login button
+[{$timestamp}] INFO -Logged in successfully
+[{$timestamp}] INFO -Scenario PASSED:Valid login
+[{$timestamp}] INFO -Starting scenario:Invalid login
+[{$timestamp}] INFO -Launched the application successfully
+[{$timestamp}] INFO -Opted login
+[{$timestamp}] INFO -Entered invalid datas
+[{$timestamp}] INFO -Clicked on login button
+[{$timestamp}] INFO -Verified invalid login
+[{$timestamp}] INFO -Scenario PASSED:Invalid login
+[{$timestamp}] INFO -Starting scenario:Search through valid keyword
+[{$timestamp}] ERROR -Screenshot FAILED:Search through valid keyword
+[{$timestamp}] ERROR -Screenshot saved:reports/screenshots/1783319042957.png
+[{$timestamp}] INFO -closing browser
+[{$timestamp}] INFO -Launching browser
+[{$timestamp}] INFO -Starting scenario:Valid login
+[{$timestamp}] INFO -Launched the application successfully
+[{$timestamp}] INFO -Opted login
+[{$timestamp}] INFO -Entered valid datas
+[{$timestamp}] INFO -Clicked on login button
+[{$timestamp}] INFO -Logged in successfully
+[{$timestamp}] INFO -Scenario PASSED:Valid login
+[{$timestamp}] INFO -Starting scenario:Invalid login
+[{$timestamp}] INFO -Launched the application successfully
+[{$timestamp}] INFO -Opted login
+[{$timestamp}] INFO -Entered invalid datas
+[{$timestamp}] INFO -Clicked on login button
+[{$timestamp}] INFO -Verified invalid login
+[{$timestamp}] INFO -Scenario PASSED:Invalid login
+[{$timestamp}] INFO -Starting scenario:Search through valid keyword
+[{$timestamp}] ERROR -Screenshot FAILED:Search through valid keyword
+[{$timestamp}] ERROR -Screenshot saved:reports/screenshots/1783319323838.png
+[{$timestamp}] INFO -closing browser
+[{$timestamp}] INFO -Launching browser
+[{$timestamp}] INFO -Starting scenario:Valid login
+[{$timestamp}] INFO -Launched the application successfully
+[{$timestamp}] INFO -Opted login
+[{$timestamp}] INFO -Entered valid datas
+[{$timestamp}] INFO -Clicked on login button
+[{$timestamp}] INFO -Logged in successfully
+[{$timestamp}] INFO -Scenario PASSED:Valid login
+[{$timestamp}] INFO -Starting scenario:Invalid login
+[{$timestamp}] INFO -Launched the application successfully
+[{$timestamp}] INFO -Opted login
+[{$timestamp}] INFO -Entered invalid datas
+[{$timestamp}] INFO -Clicked on login button
+[{$timestamp}] INFO -Verified invalid login
+[{$timestamp}] INFO -Scenario PASSED:Invalid login
+[{$timestamp}] INFO -Starting scenario:Search through valid keyword
+[{$timestamp}] ERROR -Screenshot FAILED:Search through valid keyword
+[{$timestamp}] ERROR -Screenshot saved:reports/screenshots/1783319556356.png
+[{$timestamp}] INFO -closing browser
+[{$timestamp}] INFO -Launching browser
+[{$timestamp}] INFO -Starting scenario:Valid login
+[{$timestamp}] INFO -Launched the application successfully
+[{$timestamp}] INFO -Opted login
+[{$timestamp}] INFO -Entered valid datas
+[{$timestamp}] INFO -Clicked on login button
+[{$timestamp}] INFO -Logged in successfully
+[{$timestamp}] INFO -Scenario PASSED:Valid login
+[{$timestamp}] INFO -Starting scenario:Invalid login
+[{$timestamp}] ERROR -Screenshot FAILED:Invalid login
+[{$timestamp}] ERROR -Screenshot saved:reports/screenshots/1783319599366.png
+[{$timestamp}] INFO -Starting scenario:Search through valid keyword
+[{$timestamp}] ERROR -Screenshot FAILED:Search through valid keyword
+[{$timestamp}] ERROR -Screenshot saved:reports/screenshots/1783319609880.png
+[{$timestamp}] INFO -closing browser
+[{$timestamp}] INFO -Launching browser
+[{$timestamp}] INFO -Starting scenario:Valid login
+[{$timestamp}] INFO -Launched the application successfully
+[{$timestamp}] INFO -Opted login
+[{$timestamp}] INFO -Entered valid datas
+[{$timestamp}] INFO -Clicked on login button
+[{$timestamp}] INFO -Logged in successfully
+[{$timestamp}] INFO -Scenario PASSED:Valid login
+[{$timestamp}] INFO -Starting scenario:Invalid login
+[{$timestamp}] INFO -Launched the application successfully
+[{$timestamp}] INFO -Opted login
+[{$timestamp}] INFO -Entered invalid datas
+[{$timestamp}] INFO -Clicked on login button
+[{$timestamp}] INFO -Verified invalid login
+[{$timestamp}] INFO -Scenario PASSED:Invalid login
+[{$timestamp}] INFO -Starting scenario:Search through valid keyword
+[{$timestamp}] ERROR -Screenshot FAILED:Search through valid keyword
+[{$timestamp}] ERROR -Screenshot saved:reports/screenshots/1783319702762.png
+[{$timestamp}] INFO -closing browser
+[{$timestamp}] INFO -Launching browser
+[{$timestamp}] INFO -Starting scenario:Valid login
+[{$timestamp}] INFO -Starting scenario:Invalid login
+[{$timestamp}] INFO -Starting scenario:Search through valid keyword
+[{$timestamp}] INFO -closing browser
+[{$timestamp}] INFO -Launching browser
+[{$timestamp}] INFO -Starting scenario:Valid login
+[{$timestamp}] INFO -Starting scenario:Invalid login
+[{$timestamp}] INFO -Starting scenario:Search through valid keyword
+[{$timestamp}] INFO -closing browser
+[{$timestamp}] INFO -Launching browser
+[{$timestamp}] INFO -Starting scenario:Valid login
+[{$timestamp}] INFO -Launched the application successfully
+[{$timestamp}] ERROR -Screenshot FAILED:Valid login
+[{$timestamp}] ERROR -Screenshot saved:reports/screenshots/1783319958282.png
+[{$timestamp}] INFO -Starting scenario:Invalid login
+[{$timestamp}] INFO -Launched the application successfully
+[{$timestamp}] INFO -Opted login
+[{$timestamp}] INFO -Entered invalid datas
+[{$timestamp}] INFO -Clicked on login button
+[{$timestamp}] INFO -Verified invalid login
+[{$timestamp}] INFO -Scenario PASSED:Invalid login
+[{$timestamp}] INFO -Starting scenario:Search through valid keyword
+[{$timestamp}] ERROR -Screenshot FAILED:Search through valid keyword
+[{$timestamp}] ERROR -Screenshot saved:reports/screenshots/1783319971068.png
+[{$timestamp}] INFO -closing browser
+[{$timestamp}] INFO -Launching browser
+[{$timestamp}] INFO -Starting scenario:Valid login
+[{$timestamp}] INFO -Launched the application successfully
+[{$timestamp}] INFO -Opted login
+[{$timestamp}] INFO -Entered valid datas
+[{$timestamp}] INFO -Clicked on login button
+[{$timestamp}] INFO -Logged in successfully
+[{$timestamp}] INFO -Scenario PASSED:Valid login
+[{$timestamp}] INFO -Starting scenario:Invalid login
+[{$timestamp}] INFO -Launched the application successfully
+[{$timestamp}] INFO -Opted login
+[{$timestamp}] INFO -Entered invalid datas
+[{$timestamp}] INFO -Clicked on login button
+[{$timestamp}] INFO -Verified invalid login
+[{$timestamp}] INFO -Scenario PASSED:Invalid login
+[{$timestamp}] INFO -Starting scenario:Search through valid keyword
+[{$timestamp}] ERROR -Screenshot FAILED:Search through valid keyword
+[{$timestamp}] ERROR -Screenshot saved:reports/screenshots/1783320488042.png
+[{$timestamp}] INFO -closing browser
+[{$timestamp}] INFO -Launching browser
+[{$timestamp}] INFO -Starting scenario:Valid login
+[{$timestamp}] INFO -Launched the application successfully
+[{$timestamp}] INFO -Opted login
+[{$timestamp}] INFO -Entered valid datas
+[{$timestamp}] INFO -Clicked on login button
+[{$timestamp}] INFO -Logged in successfully
+[{$timestamp}] INFO -Scenario PASSED:Valid login
+[{$timestamp}] INFO -Starting scenario:Invalid login
+[{$timestamp}] INFO -Launched the application successfully
+[{$timestamp}] INFO -Opted login
+[{$timestamp}] INFO -Entered invalid datas
+[{$timestamp}] INFO -Clicked on login button
+[{$timestamp}] INFO -Verified invalid login
+[{$timestamp}] INFO -Scenario PASSED:Invalid login
+[{$timestamp}] INFO -Starting scenario:Search through valid keyword
+[{$timestamp}] ERROR -Screenshot FAILED:Search through valid keyword
+[{$timestamp}] ERROR -Screenshot saved:reports/screenshots/1783320560114.png
+[{$timestamp}] INFO -closing browser
+[{$timestamp}] INFO -Launching browser
+[{$timestamp}] INFO -Starting scenario:Valid login
+[{$timestamp}] INFO -Launched the application successfully
+[{$timestamp}] INFO -Opted login
+[{$timestamp}] INFO -Entered valid datas
+[{$timestamp}] INFO -Clicked on login button
+[{$timestamp}] INFO -Logged in successfully
+[{$timestamp}] INFO -Scenario PASSED:Valid login
+[{$timestamp}] INFO -Starting scenario:Invalid login
+[{$timestamp}] INFO -Launched the application successfully
+[{$timestamp}] INFO -Opted login
+[{$timestamp}] INFO -Entered invalid datas
+[{$timestamp}] INFO -Clicked on login button
+[{$timestamp}] INFO -Verified invalid login
+[{$timestamp}] INFO -Scenario PASSED:Invalid login
+[{$timestamp}] INFO -Starting scenario:Search through valid keyword
+[{$timestamp}] ERROR -Screenshot FAILED:Search through valid keyword
+[{$timestamp}] ERROR -Screenshot saved:reports/screenshots/1783321085766.png
+[{$timestamp}] INFO -closing browser
+[{$timestamp}] INFO -Launching browser
+[{$timestamp}] INFO -Starting scenario:Valid login
+[{$timestamp}] INFO -Launched the application successfully
+[{$timestamp}] INFO -Opted login
+[{$timestamp}] INFO -Entered valid datas
+[{$timestamp}] INFO -Clicked on login button
+[{$timestamp}] INFO -Logged in successfully
+[{$timestamp}] INFO -Scenario PASSED:Valid login
+[{$timestamp}] INFO -Starting scenario:Invalid login
+[{$timestamp}] INFO -Launched the application successfully
+[{$timestamp}] INFO -Opted login
+[{$timestamp}] INFO -Entered invalid datas
+[{$timestamp}] INFO -Clicked on login button
+[{$timestamp}] INFO -Verified invalid login
+[{$timestamp}] INFO -Scenario PASSED:Invalid login
+[{$timestamp}] INFO -Starting scenario:Search through valid keyword
+[{$timestamp}] ERROR -Screenshot FAILED:Search through valid keyword
+[{$timestamp}] ERROR -Screenshot saved:reports/screenshots/1783321390379.png
+[{$timestamp}] INFO -closing browser
+[{$timestamp}] INFO -Launching browser
+[{$timestamp}] INFO -Starting scenario:Valid login
+[{$timestamp}] INFO -Launched the application successfully
+[{$timestamp}] INFO -Opted login
+[{$timestamp}] INFO -Entered valid datas
+[{$timestamp}] INFO -Clicked on login button
+[{$timestamp}] INFO -Logged in successfully
+[{$timestamp}] INFO -Scenario PASSED:Valid login
+[{$timestamp}] INFO -Starting scenario:Invalid login
+[{$timestamp}] INFO -Launched the application successfully
+[{$timestamp}] INFO -Opted login
+[{$timestamp}] INFO -Entered invalid datas
+[{$timestamp}] INFO -Clicked on login button
+[{$timestamp}] INFO -Verified invalid login
+[{$timestamp}] INFO -Scenario PASSED:Invalid login
+[{$timestamp}] INFO -Starting scenario:Search through valid keyword
+[{$timestamp}] ERROR -Screenshot FAILED:Search through valid keyword
+[{$timestamp}] ERROR -Screenshot saved:reports/screenshots/1783321419433.png
+[{$timestamp}] INFO -closing browser
+[{$timestamp}] INFO -Launching browser
+[{$timestamp}] INFO -Starting scenario:Valid login
+[{$timestamp}] INFO -Launched the application successfully
+[{$timestamp}] INFO -Opted login
+[{$timestamp}] INFO -Entered valid datas
+[{$timestamp}] INFO -Clicked on login button
+[{$timestamp}] INFO -Logged in successfully
+[{$timestamp}] INFO -Scenario PASSED:Valid login
+[{$timestamp}] INFO -Starting scenario:Invalid login
+[{$timestamp}] INFO -Launched the application successfully
+[{$timestamp}] INFO -Opted login
+[{$timestamp}] INFO -Entered invalid datas
+[{$timestamp}] INFO -Clicked on login button
+[{$timestamp}] INFO -Verified invalid login
+[{$timestamp}] INFO -Scenario PASSED:Invalid login
+[{$timestamp}] INFO -Starting scenario:Search through valid keyword
+[{$timestamp}] ERROR -Screenshot FAILED:Search through valid keyword
+[{$timestamp}] ERROR -Screenshot saved:reports/screenshots/1783321584623.png
+[{$timestamp}] INFO -closing browser
+[{$timestamp}] INFO -Launching browser
+[{$timestamp}] INFO -Starting scenario:Valid login
+[{$timestamp}] INFO -Launched the application successfully
+[{$timestamp}] INFO -Opted login
+[{$timestamp}] INFO -Entered valid datas
+[{$timestamp}] INFO -Clicked on login button
+[{$timestamp}] INFO -Logged in successfully
+[{$timestamp}] INFO -Scenario PASSED:Valid login
+[{$timestamp}] INFO -Starting scenario:Invalid login
+[{$timestamp}] INFO -Launched the application successfully
+[{$timestamp}] INFO -Opted login
+[{$timestamp}] INFO -Entered invalid datas
+[{$timestamp}] INFO -Clicked on login button
+[{$timestamp}] INFO -Verified invalid login
+[{$timestamp}] INFO -Scenario PASSED:Invalid login
+[{$timestamp}] INFO -Starting scenario:Search through valid keyword
+[{$timestamp}] ERROR -Screenshot FAILED:Search through valid keyword
+[{$timestamp}] ERROR -Screenshot saved:reports/screenshots/1783321721743.png
+[{$timestamp}] INFO -closing browser
+[{$timestamp}] INFO -Launching browser
+[{$timestamp}] INFO -Starting scenario:Valid login
+[{$timestamp}] INFO -Launched the application successfully
+[{$timestamp}] INFO -Opted login
+[{$timestamp}] INFO -Entered valid datas
+[{$timestamp}] INFO -Clicked on login button
+[{$timestamp}] INFO -Logged in successfully
+[{$timestamp}] INFO -Scenario PASSED:Valid login
+[{$timestamp}] INFO -Starting scenario:Invalid login
+[{$timestamp}] INFO -Launched the application successfully
+[{$timestamp}] INFO -Opted login
+[{$timestamp}] INFO -Entered invalid datas
+[{$timestamp}] INFO -Clicked on login button
+[{$timestamp}] INFO -Verified invalid login
+[{$timestamp}] INFO -Scenario PASSED:Invalid login
+[{$timestamp}] INFO -Starting scenario:Search through valid keyword
+[{$timestamp}] ERROR -Screenshot FAILED:Search through valid keyword
+[{$timestamp}] ERROR -Screenshot saved:reports/screenshots/1783321949302.png
+[{$timestamp}] INFO -closing browser
+[{$timestamp}] INFO -Launching browser
+[{$timestamp}] INFO -Starting scenario:Valid login
+[{$timestamp}] INFO -Launched the application successfully
+[{$timestamp}] INFO -Opted login
+[{$timestamp}] INFO -Entered valid datas
+[{$timestamp}] INFO -Clicked on login button
+[{$timestamp}] INFO -Logged in successfully
+[{$timestamp}] INFO -Scenario PASSED:Valid login
+[{$timestamp}] INFO -Starting scenario:Invalid login
+[{$timestamp}] INFO -Launched the application successfully
+[{$timestamp}] INFO -Opted login
+[{$timestamp}] INFO -Entered invalid datas
+[{$timestamp}] INFO -Clicked on login button
+[{$timestamp}] INFO -Verified invalid login
+[{$timestamp}] INFO -Scenario PASSED:Invalid login
+[{$timestamp}] INFO -Starting scenario:Search through valid keyword
+[{$timestamp}] ERROR -Screenshot FAILED:Search through valid keyword
+[{$timestamp}] ERROR -Screenshot saved:reports/screenshots/1783322506599.png
+[{$timestamp}] INFO -closing browser
+[{$timestamp}] INFO -Launching browser
+[{$timestamp}] INFO -Starting scenario:Valid login
+[{$timestamp}] INFO -Launched the application successfully
+[{$timestamp}] INFO -Opted login
+[{$timestamp}] INFO -Entered valid datas
+[{$timestamp}] INFO -Clicked on login button
+[{$timestamp}] INFO -Logged in successfully
+[{$timestamp}] INFO -Scenario PASSED:Valid login
+[{$timestamp}] INFO -Starting scenario:Invalid login
+[{$timestamp}] INFO -Launched the application successfully
+[{$timestamp}] INFO -Opted login
+[{$timestamp}] INFO -Entered invalid datas
+[{$timestamp}] INFO -Clicked on login button
+[{$timestamp}] INFO -Verified invalid login
+[{$timestamp}] INFO -Scenario PASSED:Invalid login
+[{$timestamp}] INFO -Starting scenario:Search through valid keyword
+[{$timestamp}] ERROR -Screenshot FAILED:Search through valid keyword
+[{$timestamp}] ERROR -Screenshot saved:reports/screenshots/1783322567350.png
+[{$timestamp}] INFO -closing browser
+[{$timestamp}] INFO -Launching browser
+[{$timestamp}] INFO -Starting scenario:Valid login
+[{$timestamp}] INFO -Launched the application successfully
+[{$timestamp}] INFO -Opted login
+[{$timestamp}] INFO -Entered valid datas
+[{$timestamp}] INFO -Clicked on login button
+[{$timestamp}] INFO -Logged in successfully
+[{$timestamp}] INFO -Scenario PASSED:Valid login
+[{$timestamp}] INFO -Starting scenario:Invalid login
+[{$timestamp}] INFO -Launched the application successfully
+[{$timestamp}] INFO -Opted login
+[{$timestamp}] INFO -Entered invalid datas
+[{$timestamp}] INFO -Clicked on login button
+[{$timestamp}] INFO -Verified invalid login
+[{$timestamp}] INFO -Scenario PASSED:Invalid login
+[{$timestamp}] INFO -Starting scenario:Search through valid keyword
+[{$timestamp}] ERROR -Screenshot FAILED:Search through valid keyword
+[{$timestamp}] ERROR -Screenshot saved:reports/screenshots/1783322620614.png
+[{$timestamp}] INFO -closing browser
+[{$timestamp}] INFO -Launching browser
+[{$timestamp}] INFO -Starting scenario:Valid login
+[{$timestamp}] INFO -Launched the application successfully
+[{$timestamp}] INFO -Opted login
+[{$timestamp}] INFO -Entered valid datas
+[{$timestamp}] INFO -Clicked on login button
+[{$timestamp}] INFO -Logged in successfully
+[{$timestamp}] INFO -Scenario PASSED:Valid login
+[{$timestamp}] INFO -Starting scenario:Invalid login
+[{$timestamp}] INFO -Launched the application successfully
+[{$timestamp}] INFO -Opted login
+[{$timestamp}] INFO -Entered invalid datas
+[{$timestamp}] INFO -Clicked on login button
+[{$timestamp}] INFO -Verified invalid login
+[{$timestamp}] INFO -Scenario PASSED:Invalid login
+[{$timestamp}] INFO -Starting scenario:Search through valid keyword
+[{$timestamp}] INFO -Scenario PASSED:Search through valid keyword
+[{$timestamp}] INFO -closing browser
+[{$timestamp}] INFO -Launching browser
+[{$timestamp}] INFO -Starting scenario:Valid login
+[{$timestamp}] INFO -Launched the application successfully
+[{$timestamp}] INFO -Opted login
+[{$timestamp}] INFO -Entered valid datas
+[{$timestamp}] INFO -Clicked on login button
+[{$timestamp}] INFO -Logged in successfully
+[{$timestamp}] INFO -Scenario PASSED:Valid login
+[{$timestamp}] INFO -Starting scenario:Invalid login
+[{$timestamp}] INFO -Launched the application successfully
+[{$timestamp}] INFO -Opted login
+[{$timestamp}] INFO -Entered invalid datas
+[{$timestamp}] INFO -Clicked on login button
+[{$timestamp}] INFO -Verified invalid login
+[{$timestamp}] INFO -Scenario PASSED:Invalid login
+[{$timestamp}] INFO -Starting scenario:Search through valid keyword
+[{$timestamp}] INFO -Starting scenario:Search through valid keyword
+[{$timestamp}] ERROR -Screenshot FAILED:Search through valid keyword
+[{$timestamp}] ERROR -Screenshot saved:reports/screenshots/1783338026241.png
+[{$timestamp}] INFO -closing browser
+[{$timestamp}] INFO -Launching browser
+[{$timestamp}] INFO -Starting scenario:Valid login
+[{$timestamp}] INFO -Launched the application successfully
+[{$timestamp}] INFO -Opted login
+[{$timestamp}] INFO -Entered valid datas
+[{$timestamp}] INFO -Clicked on login button
+[{$timestamp}] INFO -Logged in successfully
+[{$timestamp}] INFO -Scenario PASSED:Valid login
+[{$timestamp}] INFO -Starting scenario:Invalid login
+[{$timestamp}] INFO -Launched the application successfully
+[{$timestamp}] INFO -Opted login
+[{$timestamp}] INFO -Entered invalid datas
+[{$timestamp}] INFO -Clicked on login button
+[{$timestamp}] INFO -Verified invalid login
+[{$timestamp}] INFO -Scenario PASSED:Invalid login
+[{$timestamp}] INFO -Starting scenario:Search through valid keyword
+[{$timestamp}] INFO -Starting scenario:Search through valid keyword
+[{$timestamp}] ERROR -Screenshot FAILED:Search through valid keyword
+[{$timestamp}] ERROR -Screenshot saved:reports/screenshots/1783338082624.png
+[{$timestamp}] INFO -closing browser
+[{$timestamp}] INFO -Launching browser
+[{$timestamp}] INFO -closing browser
+[{$timestamp}] INFO -Launching browser
+[{$timestamp}] INFO -Starting scenario:Valid login
+[{$timestamp}] INFO -Launched the application successfully
+[{$timestamp}] INFO -Opted login
+[{$timestamp}] INFO -Entered valid datas
+[{$timestamp}] INFO -Clicked on login button
+[{$timestamp}] INFO -Logged in successfully
+[{$timestamp}] INFO -Scenario PASSED:Valid login
+[{$timestamp}] INFO -Starting scenario:Invalid login
+[{$timestamp}] INFO -Launched the application successfully
+[{$timestamp}] INFO -Opted login
+[{$timestamp}] INFO -Entered invalid datas
+[{$timestamp}] INFO -Clicked on login button
+[{$timestamp}] INFO -Verified invalid login
+[{$timestamp}] INFO -Scenario PASSED:Invalid login
+[{$timestamp}] INFO -Starting scenario:Register with valid datas
+[{$timestamp}] ERROR -Screenshot FAILED:Register with valid datas
+[{$timestamp}] ERROR -Screenshot saved:reports/screenshots/1783386040210.png
+[{$timestamp}] INFO -Starting scenario:Search through valid keyword
+[{$timestamp}] INFO -Starting scenario:Search through valid keyword
+[{$timestamp}] ERROR -Screenshot FAILED:Search through valid keyword
+[{$timestamp}] ERROR -Screenshot saved:reports/screenshots/1783386043818.png
+[{$timestamp}] INFO -closing browser
+[{$timestamp}] INFO -Launching browser
+[{$timestamp}] INFO -Starting scenario:Valid login
+[{$timestamp}] INFO -Launched the application successfully
+[{$timestamp}] INFO -Opted login
+[{$timestamp}] INFO -Entered valid datas
+[{$timestamp}] INFO -Clicked on login button
+[{$timestamp}] INFO -Logged in successfully
+[{$timestamp}] INFO -Scenario PASSED:Valid login
+[{$timestamp}] INFO -Starting scenario:Invalid login
+[{$timestamp}] INFO -Launched the application successfully
+[{$timestamp}] INFO -Opted login
+[{$timestamp}] INFO -Entered invalid datas
+[{$timestamp}] INFO -Clicked on login button
+[{$timestamp}] INFO -Verified invalid login
+[{$timestamp}] INFO -Scenario PASSED:Invalid login
+[{$timestamp}] INFO -Starting scenario:Register with valid datas
+[{$timestamp}] ERROR -Screenshot FAILED:Register with valid datas
+[{$timestamp}] ERROR -Screenshot saved:reports/screenshots/1783386399597.png
+[{$timestamp}] INFO -Starting scenario:Search through valid keyword
+[{$timestamp}] INFO -Starting scenario:Search through valid keyword
+[{$timestamp}] ERROR -Screenshot FAILED:Search through valid keyword
+[{$timestamp}] ERROR -Screenshot saved:reports/screenshots/1783386401798.png
+[{$timestamp}] INFO -closing browser
+[{$timestamp}] INFO -Launching browser
+[{$timestamp}] INFO -Starting scenario:Valid login
+[{$timestamp}] INFO -Launched the application successfully
+[{$timestamp}] INFO -Opted login
+[{$timestamp}] INFO -Entered valid datas
+[{$timestamp}] INFO -Clicked on login button
+[{$timestamp}] INFO -Logged in successfully
+[{$timestamp}] INFO -Scenario PASSED:Valid login
+[{$timestamp}] INFO -Starting scenario:Invalid login
+[{$timestamp}] INFO -Launched the application successfully
+[{$timestamp}] INFO -Opted login
+[{$timestamp}] INFO -Entered invalid datas
+[{$timestamp}] INFO -Clicked on login button
+[{$timestamp}] INFO -Verified invalid login
+[{$timestamp}] INFO -Scenario PASSED:Invalid login
+[{$timestamp}] INFO -Starting scenario:Register with valid datas
+[{$timestamp}] ERROR -Screenshot FAILED:Register with valid datas
+[{$timestamp}] ERROR -Screenshot saved:reports/screenshots/1783386807023.png
+[{$timestamp}] INFO -Starting scenario:Search through valid keyword
+[{$timestamp}] INFO -Starting scenario:Search through valid keyword
+[{$timestamp}] ERROR -Screenshot FAILED:Search through valid keyword
+[{$timestamp}] ERROR -Screenshot saved:reports/screenshots/1783386809367.png
+[{$timestamp}] INFO -closing browser
+[{$timestamp}] INFO -Launching browser
+[{$timestamp}] INFO -Starting scenario:Valid login
+[{$timestamp}] INFO -Launched the application successfully
+[{$timestamp}] INFO -Opted login
+[{$timestamp}] INFO -Entered valid datas
+[{$timestamp}] INFO -Clicked on login button
+[{$timestamp}] INFO -Logged in successfully
+[{$timestamp}] INFO -Scenario PASSED:Valid login
+[{$timestamp}] INFO -Starting scenario:Invalid login
+[{$timestamp}] INFO -Launched the application successfully
+[{$timestamp}] INFO -Opted login
+[{$timestamp}] INFO -Entered invalid datas
+[{$timestamp}] INFO -Clicked on login button
+[{$timestamp}] INFO -Verified invalid login
+[{$timestamp}] INFO -Scenario PASSED:Invalid login
+[{$timestamp}] INFO -Starting scenario:Register with valid datas
+[{$timestamp}] ERROR -Screenshot FAILED:Register with valid datas
+[{$timestamp}] ERROR -Screenshot saved:reports/screenshots/1783387103711.png
+[{$timestamp}] INFO -Starting scenario:Search through valid keyword
+[{$timestamp}] ERROR -Screenshot FAILED:Search through valid keyword
+[{$timestamp}] ERROR -Screenshot saved:reports/screenshots/1783387105846.png
+[{$timestamp}] INFO -Starting scenario:Search through valid keyword
+[{$timestamp}] ERROR -Screenshot FAILED:Search through valid keyword
+[{$timestamp}] ERROR -Screenshot saved:reports/screenshots/1783387108199.png
+[{$timestamp}] INFO -closing browser
+[{$timestamp}] INFO -Launching browser
+[{$timestamp}] INFO -Starting scenario:Valid login
+[{$timestamp}] INFO -Launched the application successfully
+[{$timestamp}] INFO -Opted login
+[{$timestamp}] INFO -Entered valid datas
+[{$timestamp}] INFO -Clicked on login button
+[{$timestamp}] INFO -Logged in successfully
+[{$timestamp}] INFO -Scenario PASSED:Valid login
+[{$timestamp}] INFO -Starting scenario:Invalid login
+[{$timestamp}] INFO -Launched the application successfully
+[{$timestamp}] INFO -Opted login
+[{$timestamp}] INFO -Entered invalid datas
+[{$timestamp}] INFO -Clicked on login button
+[{$timestamp}] INFO -Verified invalid login
+[{$timestamp}] INFO -Scenario PASSED:Invalid login
+[{$timestamp}] INFO -Starting scenario:Register with valid datas
+[{$timestamp}] ERROR -Screenshot FAILED:Register with valid datas
+[{$timestamp}] ERROR -Screenshot saved:reports/screenshots/1783387237438.png
+[{$timestamp}] INFO -Starting scenario:Search through valid keyword
+[{$timestamp}] INFO -Scenario PASSED:Search through valid keyword
+[{$timestamp}] INFO -Starting scenario:Search through valid keyword
+[{$timestamp}] INFO -Scenario PASSED:Search through valid keyword
+[{$timestamp}] INFO -closing browser
+[{$timestamp}] INFO -Launching browser
+[{$timestamp}] INFO -Starting scenario:Valid login
+[{$timestamp}] INFO -Launched the application successfully
+[{$timestamp}] INFO -Opted login
+[{$timestamp}] INFO -Entered valid datas
+[{$timestamp}] INFO -Clicked on login button
+[{$timestamp}] INFO -Logged in successfully
+[{$timestamp}] INFO -Scenario PASSED:Valid login
+[{$timestamp}] INFO -Starting scenario:Invalid login
+[{$timestamp}] INFO -Launched the application successfully
+[{$timestamp}] INFO -Opted login
+[{$timestamp}] INFO -Entered invalid datas
+[{$timestamp}] INFO -Clicked on login button
+[{$timestamp}] INFO -Verified invalid login
+[{$timestamp}] INFO -Scenario PASSED:Invalid login
+[{$timestamp}] INFO -Starting scenario:Register with valid datas
+[{$timestamp}] ERROR -Screenshot FAILED:Register with valid datas
+[{$timestamp}] ERROR -Screenshot saved:reports/screenshots/1783387374500.png
+[{$timestamp}] INFO -Starting scenario:Search through valid keyword
+[{$timestamp}] INFO -Scenario PASSED:Search through valid keyword
+[{$timestamp}] INFO -Starting scenario:Search through valid keyword
+[{$timestamp}] ERROR -Screenshot FAILED:Search through valid keyword
+[{$timestamp}] ERROR -Screenshot saved:reports/screenshots/1783387384840.png
+[{$timestamp}] INFO -closing browser
+[{$timestamp}] INFO -Launching browser
+[{$timestamp}] INFO -Starting scenario:Valid login
+[{$timestamp}] INFO -Launched the application successfully
+[{$timestamp}] INFO -Opted login
+[{$timestamp}] INFO -Entered valid datas
+[{$timestamp}] INFO -Clicked on login button
+[{$timestamp}] INFO -Logged in successfully
+[{$timestamp}] INFO -Scenario PASSED:Valid login
+[{$timestamp}] INFO -Starting scenario:Invalid login
+[{$timestamp}] INFO -Launched the application successfully
+[{$timestamp}] INFO -Opted login
+[{$timestamp}] INFO -Entered invalid datas
+[{$timestamp}] INFO -Clicked on login button
+[{$timestamp}] INFO -Verified invalid login
+[{$timestamp}] INFO -Scenario PASSED:Invalid login
+[{$timestamp}] INFO -Starting scenario:Register with valid datas
+[{$timestamp}] ERROR -Screenshot FAILED:Register with valid datas
+[{$timestamp}] ERROR -Screenshot saved:reports/screenshots/1783388028258.png
+[{$timestamp}] INFO -Starting scenario:Search through valid keyword
+[{$timestamp}] INFO -Scenario PASSED:Search through valid keyword
+[{$timestamp}] INFO -Starting scenario:Search through valid keyword
+[{$timestamp}] INFO -Scenario PASSED:Search through valid keyword
+[{$timestamp}] INFO -closing browser
+[{$timestamp}] INFO -Launching browser
+[{$timestamp}] INFO -Starting scenario:Valid login
+[{$timestamp}] INFO -Launched the application successfully
+[{$timestamp}] INFO -Opted login
+[{$timestamp}] INFO -Entered valid datas
+[{$timestamp}] INFO -Clicked on login button
+[{$timestamp}] INFO -Logged in successfully
+[{$timestamp}] INFO -Scenario PASSED:Valid login
+[{$timestamp}] INFO -Starting scenario:Invalid login
+[{$timestamp}] INFO -Launched the application successfully
+[{$timestamp}] INFO -Opted login
+[{$timestamp}] INFO -Entered invalid datas
+[{$timestamp}] INFO -Clicked on login button
+[{$timestamp}] INFO -Verified invalid login
+[{$timestamp}] INFO -Scenario PASSED:Invalid login
+[{$timestamp}] INFO -Starting scenario:Register with valid datas
+[{$timestamp}] ERROR -Screenshot FAILED:Register with valid datas
+[{$timestamp}] ERROR -Screenshot saved:reports/screenshots/1783388153434.png
+[{$timestamp}] INFO -Starting scenario:Search through valid keyword
+[{$timestamp}] INFO -Scenario PASSED:Search through valid keyword
+[{$timestamp}] INFO -Starting scenario:Search through valid keyword
+[{$timestamp}] INFO -Scenario PASSED:Search through valid keyword
+[{$timestamp}] INFO -closing browser
+[{$timestamp}] INFO -Launching browser
+[{$timestamp}] INFO -Starting scenario:Valid login
+[{$timestamp}] INFO -Launched the application successfully
+[{$timestamp}] INFO -Opted login
+[{$timestamp}] INFO -Entered valid datas
+[{$timestamp}] INFO -Clicked on login button
+[{$timestamp}] INFO -Logged in successfully
+[{$timestamp}] INFO -Scenario PASSED:Valid login
+[{$timestamp}] INFO -Starting scenario:Invalid login
+[{$timestamp}] INFO -Launched the application successfully
+[{$timestamp}] INFO -Opted login
+[{$timestamp}] INFO -Entered invalid datas
+[{$timestamp}] INFO -Clicked on login button
+[{$timestamp}] INFO -Verified invalid login
+[{$timestamp}] INFO -Scenario PASSED:Invalid login
+[{$timestamp}] INFO -Starting scenario:Register with valid datas
+[{$timestamp}] ERROR -Screenshot FAILED:Register with valid datas
+[{$timestamp}] ERROR -Screenshot saved:reports/screenshots/1783388315993.png
+[{$timestamp}] INFO -Starting scenario:Search through valid keyword
+[{$timestamp}] INFO -Scenario PASSED:Search through valid keyword
+[{$timestamp}] INFO -Starting scenario:Search through valid keyword
+[{$timestamp}] INFO -Scenario PASSED:Search through valid keyword
+[{$timestamp}] INFO -closing browser
+[{$timestamp}] INFO -Launching browser
+[{$timestamp}] INFO -Starting scenario:Valid login
+[{$timestamp}] INFO -Launched the application successfully
+[{$timestamp}] INFO -Opted login
+[{$timestamp}] INFO -Entered valid datas
+[{$timestamp}] INFO -Clicked on login button
+[{$timestamp}] INFO -Logged in successfully
+[{$timestamp}] INFO -Scenario PASSED:Valid login
+[{$timestamp}] INFO -Starting scenario:Invalid login
+[{$timestamp}] INFO -Launched the application successfully
+[{$timestamp}] INFO -Opted login
+[{$timestamp}] INFO -Entered invalid datas
+[{$timestamp}] INFO -Clicked on login button
+[{$timestamp}] INFO -Verified invalid login
+[{$timestamp}] INFO -Scenario PASSED:Invalid login
+[{$timestamp}] INFO -Starting scenario:Register with valid datas
+[{$timestamp}] ERROR -Screenshot FAILED:Register with valid datas
+[{$timestamp}] ERROR -Screenshot saved:reports/screenshots/1783388449671.png
+[{$timestamp}] INFO -Starting scenario:Search through valid keyword
+[{$timestamp}] INFO -Scenario PASSED:Search through valid keyword
+[{$timestamp}] INFO -Starting scenario:Search through valid keyword
+[{$timestamp}] INFO -Scenario PASSED:Search through valid keyword
+[{$timestamp}] INFO -closing browser
+[{$timestamp}] INFO -Launching browser
+[{$timestamp}] INFO -Starting scenario:Valid login
+[{$timestamp}] INFO -Launched the application successfully
+[{$timestamp}] INFO -Opted login
+[{$timestamp}] INFO -Entered valid datas
+[{$timestamp}] INFO -Clicked on login button
+[{$timestamp}] INFO -Logged in successfully
+[{$timestamp}] INFO -Scenario PASSED:Valid login
+[{$timestamp}] INFO -Starting scenario:Invalid login
+[{$timestamp}] INFO -Launched the application successfully
+[{$timestamp}] INFO -Opted login
+[{$timestamp}] INFO -Entered invalid datas
+[{$timestamp}] INFO -Clicked on login button
+[{$timestamp}] INFO -Verified invalid login
+[{$timestamp}] INFO -Scenario PASSED:Invalid login
+[{$timestamp}] INFO -Starting scenario:Register with valid datas
+[{$timestamp}] ERROR -Screenshot FAILED:Register with valid datas
+[{$timestamp}] ERROR -Screenshot saved:reports/screenshots/1783388646711.png
+[{$timestamp}] INFO -Starting scenario:Search through valid keyword
+[{$timestamp}] INFO -Scenario PASSED:Search through valid keyword
+[{$timestamp}] INFO -Starting scenario:Search through valid keyword
+[{$timestamp}] INFO -Scenario PASSED:Search through valid keyword
+[{$timestamp}] INFO -closing browser
+[{$timestamp}] INFO -Launching browser
+[{$timestamp}] INFO -Starting scenario:Valid login
+[{$timestamp}] INFO -Launched the application successfully
+[{$timestamp}] INFO -Opted login
+[{$timestamp}] INFO -Entered valid datas
+[{$timestamp}] INFO -Clicked on login button
+[{$timestamp}] INFO -Logged in successfully
+[{$timestamp}] INFO -Scenario PASSED:Valid login
+[{$timestamp}] INFO -Starting scenario:Invalid login
+[{$timestamp}] INFO -Launched the application successfully
+[{$timestamp}] INFO -Opted login
+[{$timestamp}] INFO -Entered invalid datas
+[{$timestamp}] INFO -Clicked on login button
+[{$timestamp}] INFO -Verified invalid login
+[{$timestamp}] INFO -Scenario PASSED:Invalid login
+[{$timestamp}] INFO -Starting scenario:Register with valid datas
+[{$timestamp}] INFO -Scenario PASSED:Register with valid datas
+[{$timestamp}] INFO -Starting scenario:Search through valid keyword
+[{$timestamp}] INFO -Scenario PASSED:Search through valid keyword
+[{$timestamp}] INFO -Starting scenario:Search through valid keyword
+[{$timestamp}] INFO -Scenario PASSED:Search through valid keyword
+[{$timestamp}] INFO -closing browser
